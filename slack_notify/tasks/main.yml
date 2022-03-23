@@ -1,0 +1,9 @@
+---
+  - name: installation_slack
+    slack:
+      domain: slack.com
+      token: "T0384JVSBU4/B037NEMKA5V/6Zo2aN6IhBRJBRC17eaN9rWO"
+      icon_url: "https://hooks.slack.com/services/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"
+      msg: "You have a new notification!Task completed"
+      channel: "notification_slack"
+
