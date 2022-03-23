@@ -1,0 +1,5 @@
+- name: notify with slack
+  hosts: localhost
+  tasks:
+  - include_role:
+      name: slack_notify
